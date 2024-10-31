@@ -11,7 +11,7 @@ h2 {
     margin-top: 20px;
 }
 
-/* Navbar Styles */
+
 
 .custom-navbar {
     background-color: #6f4c3e; 
@@ -26,10 +26,10 @@ h2 {
 }
 
 .nav-link:hover {
-    color: #ffc107 !important; /* Light yellow */
+    color: #ffc107 !important;
 }
 
-/* About Section */
+
 #about {
     padding: 40px 0;
     background-color: #e9ecef;
@@ -40,7 +40,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-/* Features Section */
+
 #features {
     padding: 40px 0;
 }
@@ -53,10 +53,10 @@ h2 {
 
 .card-title {
     font-size: 1.5rem;
-    color: #6f4c3e; /* Coffee brown */
+    color: #6f4c3e; 
 }
 
-/* Gallery Section */
+
 #gallery {
     padding: 40px 0;
 }
@@ -66,7 +66,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-/* Contact Section */
+
 #contact {
     padding: 40px 0;
     background-color: #e9ecef;
@@ -77,24 +77,24 @@ h2 {
 }
 
 .btn-primary {
-    background-color: #6f4c3e; /* Coffee brown */
+    background-color: #6f4c3e; 
     border: none;
     border-radius: 5px;
 }
 
 .btn-primary:hover {
-    background-color: #5b3e30; /* Darker coffee brown */
+    background-color: #5b3e30; 
 }
 
-/* Footer Styles */
+
 footer {
     padding: 20px 0;
-    background-color: #6f4c3e; /* Coffee brown */
+    background-color: #6f4c3e; 
     color: white;
 }
 
 footer a {
-    color: #ffc107; /* Light yellow */
+    color: #ffc107; 
     margin: 0 10px;
 }
 
