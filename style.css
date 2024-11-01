@@ -101,3 +101,23 @@ footer a {
 footer a:hover {
     color: white;
 }
+
+#about {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#features {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#gallery {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#contact {
+    margin-left: 20px;
+    margin-right: 20px;
+}
